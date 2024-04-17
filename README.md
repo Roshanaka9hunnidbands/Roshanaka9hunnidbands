@@ -8,7 +8,8 @@ Hey there! 👋 I'm Roshanakahrtz, a coding enthusiast on a journey to learn and
 
 ## 🔍 What I'm Learning
 - Python programming
-- Basics of computer science
+- Computer science
+- Web Development Using JavaScript And Angular
 
 ## 📫 Get in Touch
 Want to chat, collaborate, or have any questions? Feel free to shoot me an email at [roshankumar2004@gmail.com](mailto:roshankumar2004@gmail.com). I'm always open to new connections and learning opportunities!
