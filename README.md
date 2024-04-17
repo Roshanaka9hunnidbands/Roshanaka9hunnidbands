@@ -17,5 +17,3 @@ Want to chat, collaborate, or have any questions? Feel free to shoot me an email
 Follow along with my journey by watching this repository. I'll be updating it with projects, learnings, and maybe even some cool discoveries along the way!
 
 ---
-
-Feel free to customize it further to reflect your personal style and preferences!
