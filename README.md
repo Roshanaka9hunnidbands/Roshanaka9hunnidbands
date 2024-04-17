@@ -1,10 +1,21 @@
-- Hi, I’m @Roshanakahrtz
--  I’m interested in learning to code 
--  I’m currently learning python and basics of computer science
-- How to reach me 
-mail me on my email id roshankumar2004@gmail.com
 
-<!---
-Roshanakahrtz/Roshanakahrtz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+---
+
+# Roshanaka9hunnidbands's GitHub Repository
+
+Hey there! 👋 I'm Roshanakahrtz, a coding enthusiast on a journey to learn and explore the world of programming. Currently, I'm diving into Python and mastering the fundamentals of computer science. Here's a glimpse of what you'll find in my GitHub repository:
+
+## 🔍 What I'm Learning
+- Python programming
+- Basics of computer science
+
+## 📫 Get in Touch
+Want to chat, collaborate, or have any questions? Feel free to shoot me an email at [roshankumar2004@gmail.com](mailto:roshankumar2004@gmail.com). I'm always open to new connections and learning opportunities!
+
+## 🌱 Stay Updated
+Follow along with my journey by watching this repository. I'll be updating it with projects, learnings, and maybe even some cool discoveries along the way!
+
+---
+
+Feel free to customize it further to reflect your personal style and preferences!
